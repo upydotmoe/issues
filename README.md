@@ -1,4 +1,4 @@
-Submit your report here => https://github.com/upyapp/issues/issues
+Feel free to submit your report here => https://github.com/upyapp/issues/issues, by submitting a report here, you are helping to reduce our workload in testing our website. Thank you for your assistance. ✪ ω ✪
 
 #### # Before submitting issue-
 please clearly explain the issue, and avoid submitting duplicate reports. Additionally, please include a screenshot of the issue, and provide details on how and when the problem occurred. Also, please be kind and respectful to one another in this community.
