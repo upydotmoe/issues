@@ -1,5 +1,15 @@
-Feel free to submit your report here => https://github.com/upyapp/issues/issues, by submitting a report here, you are helping to reduce our workload in testing our website. Thank you for your assistance. ✪ ω ✪
+<p align="center"><i><b>~ WELCOME ~</b></i></p>
+   
+<p align="center">
+   <a href="https://github.com/upyapp/issues/issues/new">Create New Issue</a> - <a href="https://github.com/upyapp/issues/issues">List Issues</a>
+</p>
 
+<br><br>
+
+Feel free to submit your report here, by submitting a report here, that's mean you are helping to reduce our workload in testing our website. Thank you for your assistance. ✪ ω ✪
+
+<hr>
+   
 #### # Before submitting issue-
 please clearly explain the issue, and avoid submitting duplicate reports. Additionally, please include a screenshot of the issue, and provide details on how and when the problem occurred. Also, please be kind and respectful to one another in this community.
 
