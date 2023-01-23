@@ -1,7 +1,7 @@
 <p align="center"><i><b>~ WELCOME ~</b></i></p>
    
 <p align="center">
-   <a href="https://github.com/upyapp/issues/issues/new">Create New Issue</a> - <a href="https://github.com/upyapp/issues/issues">List Issues</a>
+   <a href="https://github.com/upyapp/issues/issues/new">Create New Issue</a> - <a href="https://github.com/upyapp/issues/issues">Submitted Issues</a>
 </p>
 
 <br><br>
